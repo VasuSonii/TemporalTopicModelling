@@ -16,7 +16,7 @@ This repository contains:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/facebook-policy-analysis.git
+   git clone https://github.com/VasuSonii/TemporalTopicModelling.git
    cd facebook-policy-analysis
    pip install -r requirements.txt
 python -m spacy download en_core_web_sm
