@@ -19,5 +19,13 @@ This repository contains:
    git clone https://github.com/VasuSonii/TemporalTopicModelling.git
    cd facebook-policy-analysis
    pip install -r requirements.txt
-python -m spacy download en_core_web_sm
-python Topic_Modeller.py --input_dir ./data --output_dir ./results
+
+2. **Setup the Environment**
+   ```bash
+   pip install -r requirnments.txt
+   python -m spacy download en_core_web_sm
+
+3. **Run Analysis**
+   ```bash
+   python Topic_Modeller.py --input_dir ./data --output_dir ./results
+   
